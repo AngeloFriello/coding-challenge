@@ -1,0 +1,67 @@
+body{
+    background: url(background.jpg);
+    background-size: cover;
+}
+.rew{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 3000x;
+    width: 5000px;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1px;
+    display: block;
+}
+
+#lim{
+    width: 20%;
+    margin-top: 7%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+*{
+    margin: 0px;
+    padding: 2px;
+    font-family: 'Signika', sans-serif;
+    box-sizing: border-box;
+}
+
+.titolo{
+        margin-left: 30%;
+        font-size: 1%;
+        color: rgb(3, 165, 3);
+}
+
+.navigatore{
+    height: 170px;
+    width: 4000px;
+    background-color: rgb(1, 177, 1);
+    margin: auto;
+    border-radius: 15px;
+  
+}
+
+.button1{
+    padding: 10px 10px;
+    font-size: 50px;
+    color: black;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 1500px;
+}
+
+.button2{
+    padding: 10px 10px;
+    font-size: 50px;
+    color: black;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+.corpo{
+    margin-left: 500px;
+    width: 30%;
+}
